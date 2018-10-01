@@ -1,7 +1,6 @@
 const gyms = require("./gyms.js");
 const Discord = require("discord.js");
 const client = new Discord.Client();
-const token = "NDYxOTY3MjI5MzI0MzYxNzM5.DiIbIA.7zduk-kTs_iip7crJv2-njaaCD8";
 const clientID = 461967229324361739;
 const prefix = "!";
 
